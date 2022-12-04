@@ -102,7 +102,7 @@ A tech newbie
 - 👨‍💻 Binary Exploitation
 - ☁️ Cloud
 
-<img hight="300" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/UGWpLb1b4KddktMz0y/giphy-downsized.gif">
+<img width="500" alt="GIF" align="right" src="https://media.giphy.com/media/UGWpLb1b4KddktMz0y/giphy-downsized.gif">
 </br>
 </br>
 
@@ -124,7 +124,7 @@ So it only means I have to work Harder
 </br>
 <img heght="400" width="400" alt="GIF" align="right" src="https://i.imgur.com/S4HkTH7.gif">
 
-<img hight="300" width="400" alt="GIF" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAckerMan&theme=merko&hide_border=false">
+<img hight="300" width="400" alt="streaks" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAckerMan&theme=merko&hide_border=false">
 
 </br>
 </br>

@@ -73,6 +73,7 @@ A tech newbie
 </h4>
 
 <!-- <img hight="900" width="500" alt="GIF" align="right" src="https://i.imgur.com/AkAj5H5.gif"> -->
+
 <img hight="900" width="500" alt="GIF" align="right" src="https://i.imgur.com/3EYMoNv.gif">
 
 

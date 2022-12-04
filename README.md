@@ -1,4 +1,4 @@
-# 💫 About Me:
+<!--# 💫 About Me:
 A tech newbie 
 
 
@@ -30,7 +30,7 @@ A tech newbie
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-My interest lies in:
+<!--My interest lies in:
 <li>
   🕸️ Application Security
 </li>
@@ -58,38 +58,44 @@ My interest lies in:
   <td width="50%">
 -->
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/k0r3s) 
+<!--## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/k0r3s) -->
 
 
 
 
-<!--
-# WhoAmI
+
+
 <h4 align="center">Hello <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="30"
-         width="30" />, I am Tech Enthusiast. I study in Computer Science & do CyberSecurity as side activity
+         width="30" />, I am a fullstack software engineer and a CyberSecurity expert. I love Python :)
 </h4>
---
-<img hight="400" width="500" alt="GIF" align="right" src="https://i.imgur.com/AkAj5H5.gif">
+
+<img hight="900" width="500" alt="GIF" align="right" src="https://i.imgur.com/AkAj5H5.gif">
 
 
 
 ### Learning
-- 🔰 Comp Science
-- 🔰 Bug Bounty
+- 🔰 Web development
+- 🔰 Boot2Root
 - 🔰 Shell Scripting
 - 🔰 Webapp Pentesting
-
 
 
 ### Hobbies
 - 🔰 CTFs
 - 🔰 Watching Anime
 - 🔰 Explore The Internet
+- 🔰 Coding
 
 </br>
+
+### My interest lies in:
+- 🕸️ Application Security
+- 🪟 Red Teaming
+- 👨‍💻 Binary Exploitation
+- ☁️ Cloud
 </br>
 
 
@@ -99,8 +105,7 @@ My interest lies in:
 - 🔰 Medium Writeups
 - 🔰 BugCrowd University
 - 🔰 Twitter BugBounty Community
-- 🔰 HackerOne Disclosure Rportes
-- 🔰 Active BugHunter YouTube Channels
+
 
 </br>
 </br>

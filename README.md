@@ -71,11 +71,15 @@ A tech newbie
          height="30"
          width="30" />, I am a fullstack software engineer and a CyberSecurity expert. I love Python :)
 </h4>
-
+</br>
 <!-- <img hight="900" width="500" alt="GIF" align="right" src="https://i.imgur.com/AkAj5H5.gif"> -->
 
-<img heght="900" width="500" alt="GIF" align="right" src="https://i.imgur.com/3EYMoNv.gif">
+<!--<img heght="900" width="500" alt="GIF" align="right" src="https://i.imgur.com/3EYMoNv.gif">-->
 
+<img hight="300" width="500" alt="GIF" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAckerMan&theme=merko&hide_border=false">
+
+
+</br>
 
 
 ### Learning
@@ -133,7 +137,7 @@ So it only means I have to work Harder
 - 🔰 [HackMD](https://hackmd.io/@k0r3s)
 
 
-<img hight="300" width="300" alt="GIF" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAckerMan&theme=merko&hide_border=false">
+
 <!--
 [![kOr3s' github stats](https://github-readme-stats.vercel.app/api?username=kOr3s&show_icons=true&count_private=true&theme=radical)](https://github.com/kOr3s/github-readme-stats)
 

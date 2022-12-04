@@ -74,7 +74,7 @@ A tech newbie
 
 <!-- <img hight="900" width="500" alt="GIF" align="right" src="https://i.imgur.com/AkAj5H5.gif"> -->
 
-<img hight="900" width="500" alt="GIF" align="right" src="https://i.imgur.com/3EYMoNv.gif">
+<img heght="900" width="500" alt="GIF" align="right" src="https://i.imgur.com/3EYMoNv.gif">
 
 
 
@@ -120,9 +120,8 @@ Well, it's true that I am not that much smart like others
 So it only means I have to work Harder 
 
 </br>
-<img hight="400" width="500" alt="GIF" align="right" src="https://i.imgur.com/S4HkTH7.gif">
-</br>
-</br>
+<img heght="400" width="500" alt="GIF" align="right" src="https://i.imgur.com/S4HkTH7.gif">
+
 
 
 ### My profiles & Contacts
@@ -133,11 +132,8 @@ So it only means I have to work Harder
 - 🔰 [Medium](https://medium.com/@kor3s)
 - 🔰 [HackMD](https://hackmd.io/@k0r3s)
 
-</br>
-</br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=0xAckerMan&theme=merko&hide_border=false)<br/>
-
+<img hight="300" width="500" alt="GIF" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAckerMan&theme=merko&hide_border=false">
 <!--
 [![kOr3s' github stats](https://github-readme-stats.vercel.app/api?username=kOr3s&show_icons=true&count_private=true&theme=radical)](https://github.com/kOr3s/github-readme-stats)
 

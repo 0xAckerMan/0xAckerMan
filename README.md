@@ -111,7 +111,6 @@ A tech newbie
 
 </br>
 </br>
-</br>
 
 ## End Note
 
@@ -120,7 +119,8 @@ So it only means I have to work Harder
 
 </br>
 <img hight="400" width="500" alt="GIF" align="right" src="https://i.imgur.com/S4HkTH7.gif">
-
+</br>
+</br>
 
 </br>
 </br>
@@ -132,8 +132,11 @@ So it only means I have to work Harder
 - 🔰 [Twitter](https://twitter.com/0xAckerMan_)
 - 🔰 [Medium](https://medium.com/@kor3s)
 - 🔰 [HackMD](https://hackmd.io/@k0r3s)
+
 </br>
 </br>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=0xAckerMan&theme=merko&hide_border=false)<br/>
 
 <!--
 [![kOr3s' github stats](https://github-readme-stats.vercel.app/api?username=kOr3s&show_icons=true&count_private=true&theme=radical)](https://github.com/kOr3s/github-readme-stats)

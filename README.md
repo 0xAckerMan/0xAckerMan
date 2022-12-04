@@ -118,7 +118,7 @@ Well, it's true that I am not that much smart like others
 So it only means I have to work Harder 
 
 </br>
-<img hight="400" width="500" alt="GIF" align="right" src="https://i.imgur.com/S4HkTH7.gif">
+<img hight="400" width="450" alt="GIF" align="right" src="https://i.imgur.com/S4HkTH7.gif">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0xAckerMan&theme=merko&hide_border=false)<br/>
 

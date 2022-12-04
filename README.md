@@ -72,11 +72,9 @@ A tech newbie
          width="30" />, I am a fullstack software engineer and a CyberSecurity expert. I love Python :)
 </h4>
 </br>
-<!-- <img hight="900" width="500" alt="GIF" align="right" src="https://i.imgur.com/AkAj5H5.gif"> -->
+<img hight="900" width="500" alt="GIF" align="right" src="https://i.imgur.com/AkAj5H5.gif"> 
 
 <!--<img heght="900" width="500" alt="GIF" align="right" src="https://i.imgur.com/3EYMoNv.gif">-->
-
-<img hight="300" width="500" alt="GIF" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAckerMan&theme=merko&hide_border=false">
 
 
 </br>
@@ -126,7 +124,16 @@ So it only means I have to work Harder
 </br>
 <img heght="400" width="500" alt="GIF" align="right" src="https://i.imgur.com/S4HkTH7.gif">
 
+<img hight="300" width="400" alt="GIF" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAckerMan&theme=merko&hide_border=false">
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ### My profiles & Contacts
 - 🔰 [Hackerone](https://hackerone.com/r41d3n)

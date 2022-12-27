@@ -79,3 +79,7 @@ So it only means I have to work Harder
 - 🔰 [Twitter](https://twitter.com/0xAckerMan_)
 - 🔰 [Medium](https://medium.com/@kor3s)
 - 🔰 [HackMD](https://hackmd.io/@k0r3s)
+
+
+
+[![wakatime](https://wakatime.com/badge/user/c371fe1f-df38-484f-980d-d7b09b76a1c0.svg)](https://wakatime.com/@c371fe1f-df38-484f-980d-d7b09b76a1c0)

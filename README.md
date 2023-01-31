@@ -83,3 +83,4 @@ So it only means I have to work Harder
 
 
 [![wakatime](https://wakatime.com/badge/user/c371fe1f-df38-484f-980d-d7b09b76a1c0.svg)](https://wakatime.com/@c371fe1f-df38-484f-980d-d7b09b76a1c0)
+[![codewaers](https://www.codewars.com/users/kOr3s/badges/large)](https://www.codewars.com/users/kOr3s)

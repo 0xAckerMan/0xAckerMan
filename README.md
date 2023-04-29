@@ -21,7 +21,7 @@
 - 🔰 Wordpress
 - 🔰 JavaScript
 - 🔰 DevOps
-- 🔰 Webapp Pentesting
+- 🔰 Data Structures and Algorithms
 
 
 ### Hobbies

@@ -59,14 +59,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAckerMan"/>
 </p>
 
-## What companies have I worked for?
 
-<p left="center">
-  <a href="https://moringaschool.com/">
-    <img src="https://imgs.search.brave.com/YpBrlTKFEDPRzrMSR7blBM7DIzTw0wpXB3evHp-bdoI/rs:fit:200:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC42/eHZ2bm8zMndzWW5O/N2t2TTJNaVF3QUFB/QSZwaWQ9QXBp" height=70>
-    </a>
-  
-</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/738476857401278474) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelkores/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@0xAckerMan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14801691) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/joelkores_) 
